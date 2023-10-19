@@ -1,6 +1,6 @@
 ## Codecademy Portfolio Project: Biodiversity in National Parks
 
-![National Park Trail](National_park.png)  
+![National Park Trail](National_Park.png)  
 
 Descriptive analysis performed on data from the US National Parks Service about 
 endangered species in the Bryce National Park, Great Smoky Mountains National Park,
